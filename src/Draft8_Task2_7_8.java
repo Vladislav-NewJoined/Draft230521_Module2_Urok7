@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Draft8_Task2_7_8 {
     public static void main(String[] args) {
-        System.out.println("Задание: \n8.\tПользователь вводит предложение. Замените в каждом слове этого предложения, последн** д** бук** на **\n\nРешение: ");
+        System.out.println("Задание : \n8.\tПользователь вводит предложение. Замените в каждом слове этого предложения, последн** д** бук** на **\n\nРешение: ");
         Scanner scanner = new Scanner (System.in);
         System.out.print("Введите предложение: ");
         String line = scanner.nextLine();
