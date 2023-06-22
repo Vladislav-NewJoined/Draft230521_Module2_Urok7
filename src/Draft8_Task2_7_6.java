@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Draft8_Task2_7_6 {
 
-    //        Пример _ ППППППППППППППППППППППППППППППППППП
+    //        Пример _  ППППППППППППППППППППППППППППППППППП
 
 
     public static void main(String[] args) {
